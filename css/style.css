@@ -105,3 +105,9 @@ section {
     background: #252525;
     color: #fff;
 }
+
+.photoEl{
+    height: 300px;
+    border-radius: 50px;
+    border: 5px solid whitesmoke;
+}
